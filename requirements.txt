@@ -1,0 +1,11 @@
+# Web server
+flask
+flask-cors
+# Core ML libraries
+torch
+transformers
+transformers[torch]
+# Image processing
+Pillow
+
+torchvision
